@@ -48,7 +48,7 @@ Push to the branch: git push origin feature-name.
 Submit a pull request.
 
 ## Acknowledgements
- used React ,Javascript ,html5/css3
+ used React ,Javascript ,tailwind css
  
 
 
